@@ -18,7 +18,8 @@
 - WPF践行者 - 陕西西安 
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 半栈程序员 - 河南 ![软文](https://img.shields.io/badge/软谋软文-FFE751.svg)
-- 赛博蓝猫 - 山东 
+- 赛博蓝猫 - 山东
+- 许泽宇的技术分享 - 湖北
 
 #### 上海 Shanghai
 - Net分享 - 上海
