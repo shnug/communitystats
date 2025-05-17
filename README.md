@@ -22,16 +22,16 @@
 
 #### 上海 Shanghai
 - Net分享 - 上海
-- Dotnet讲堂 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- dotnet编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
-- CSharp编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet讲堂 - 上海  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- dotnet编程大全 - 上海 
+- CSharp编程大全 - 上海 
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) 
 
 #### 北京 Beijing
-- Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
+- Dotnet开发跳槽 - 北京  ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - DotNet - 北京 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 - DotNet致知 - 北京
 - 桑榆肖物 - 北京
@@ -40,11 +40,11 @@
 - cshelloword - 北京
 
 #### 广东 Guangdong
-- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) 
+- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) 
 - CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - token的技术分享 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 老码识途 - 广东
-- DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- DotNET全栈开发 - 广东 
 - Dotnet NB - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 微服务知多少 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet Dancer - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
@@ -56,7 +56,7 @@
 - Csharp小记 - 江苏 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 #### 浙江 Zhejiang
-- Dotnet工具箱 - 浙江 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet工具箱 - 浙江 
 - 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 - .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - 华山论术 - 浙江 
@@ -68,7 +68,7 @@
 - dotnet安全矩阵 - 安徽 ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 
 #### 四川 Sichuan
-- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 精益码农 - 成都 
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 蓝创精英团队 - 四川 
