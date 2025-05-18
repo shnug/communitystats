@@ -120,6 +120,7 @@
 - JusterZhu ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - Will保哥 ![MVP](https://img.shields.io/badge/RD-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
 - 许泽宇的技术分享 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
+- SlimeNull ![粉丝](https://img.shields.io/badge/粉丝-800-blue)
          
 ### Zhihu 知乎 (China Quora)
 - [Ivony](https://www.zhihu.com/people/Ivony)
