@@ -143,6 +143,7 @@
 - [hez2010](https://www.zhihu.com/people/hez2010) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - [dwing](https://www.zhihu.com/people/dwing4g)
 - [霍姚远](https://www.zhihu.com/people/huo-yao-yuan) ![微软FTE](https://img.shields.io/badge/FTE-2d6cbe.svg)
+- [Elendil Zheng](https://www.zhihu.com/people/elendil-zheng) ![微软FTE](https://img.shields.io/badge/FTE-2d6cbe.svg)
 - [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg)
 - [一线码农](https://www.zhihu.com/people/ixchuang) 
 - [李会军](https://www.zhihu.com/people/terrylee) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
